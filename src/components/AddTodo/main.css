@@ -1,0 +1,9 @@
+.add-group > .add-input,
+.add-group > .add-button {
+  display: inline-block;
+}
+
+.add-group > .add-input {
+  width: 70%;
+  margin: 1rem;
+}

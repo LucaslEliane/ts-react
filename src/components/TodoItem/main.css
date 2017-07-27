@@ -1,0 +1,15 @@
+.completed-item {
+  text-decoration: line-through;
+}
+.list-item.list-group-item {
+  display: flex;
+}
+.list-item.list-group-item > p {
+  margin: auto;
+}
+.delete-button {
+  margin: auto;
+}
+.complete-button {
+  margin: auto;
+}
